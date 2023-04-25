@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivazsks
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html and css
+- 🌱 I have basic knowledge of java.
 
 <!---
 Ivazsks/Ivazsks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
